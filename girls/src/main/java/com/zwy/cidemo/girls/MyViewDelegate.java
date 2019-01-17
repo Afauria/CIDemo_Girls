@@ -3,8 +3,9 @@ package com.zwy.cidemo.girls;
 import android.support.annotation.Keep;
 import android.view.View;
 
-import com.zwy.base.base.BaseFragment;
-import com.zwy.base.base.IViewDelegate;
+import com.zwy.cidemo.base.base.BaseFragment;
+import com.zwy.cidemo.base.base.IViewDelegate;
+
 
 @Keep
 public class MyViewDelegate implements IViewDelegate {

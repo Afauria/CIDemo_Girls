@@ -1,7 +1,7 @@
 package com.zwy.cidemo.girls.main;
 
-import com.zwy.base.base.BasePresenter;
-import com.zwy.base.base.BaseView;
+import com.zwy.cidemo.base.base.BasePresenter;
+import com.zwy.cidemo.base.base.BaseView;
 import com.zwy.cidemo.girls.data.bean.Girls;
 
 import java.util.List;

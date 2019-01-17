@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 
 import com.bumptech.glide.Glide;
 import com.github.chrisbanes.photoview.PhotoView;
+import com.zwy.cidemo.girls.R;
 import com.zwy.cidemo.girls.data.bean.Girls;
-import com.zwy.girls.R;
 
 import java.util.List;
 

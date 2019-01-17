@@ -1,9 +1,8 @@
 package com.zwy.cidemo.girls.data.source;
 
-
-import com.zwy.base.http.DataType;
-import com.zwy.base.http.HttpClient;
-import com.zwy.base.http.OnResultListener;
+import com.zwy.cidemo.base.http.DataType;
+import com.zwy.cidemo.base.http.HttpClient;
+import com.zwy.cidemo.base.http.OnResultListener;
 import com.zwy.cidemo.girls.data.GirlsDataSource;
 import com.zwy.cidemo.girls.Constants;
 import com.zwy.cidemo.girls.data.bean.GirlsParser;

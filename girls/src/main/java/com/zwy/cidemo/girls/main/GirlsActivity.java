@@ -3,8 +3,8 @@ package com.zwy.cidemo.girls.main;
 import android.os.Bundle;
 
 import com.alibaba.android.arouter.facade.annotation.Route;
-import com.zwy.base.base.BaseActionBarActivity;
-import com.zwy.girls.R;
+import com.zwy.cidemo.base.base.BaseActionBarActivity;
+import com.zwy.cidemo.girls.R;
 
 
 @Route(path = "/girls/list")

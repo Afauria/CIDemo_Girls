@@ -14,11 +14,11 @@ import android.widget.FrameLayout;
 import com.jude.easyrecyclerview.EasyRecyclerView;
 import com.jude.easyrecyclerview.adapter.BaseViewHolder;
 import com.jude.easyrecyclerview.adapter.RecyclerArrayAdapter;
-import com.zwy.base.utils.Utils;
+import com.zwy.cidemo.base.utils.Utils;
 import com.zwy.cidemo.girls.Constants;
+import com.zwy.cidemo.girls.R;
 import com.zwy.cidemo.girls.data.bean.Girls;
 import com.zwy.cidemo.girls.girl.GirlActivity;
-import com.zwy.girls.R;
 
 import java.util.ArrayList;
 import java.util.List;

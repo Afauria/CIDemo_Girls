@@ -7,9 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.zwy.base.base.BaseFragment;
-import com.zwy.girls.R;
-
+import com.zwy.cidemo.base.base.BaseFragment;
 
 /**
  * A simple {@link Fragment} subclass.

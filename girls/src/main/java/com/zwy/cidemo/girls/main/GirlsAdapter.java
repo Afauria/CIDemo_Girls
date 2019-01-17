@@ -5,11 +5,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
+
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.jude.easyrecyclerview.adapter.BaseViewHolder;
 import com.jude.easyrecyclerview.adapter.RecyclerArrayAdapter;
-import com.zwy.girls.R;
+import com.zwy.cidemo.girls.R;
 import com.zwy.cidemo.girls.data.bean.Girls;
 
 public class GirlsAdapter extends RecyclerArrayAdapter<Girls> {

@@ -5,8 +5,8 @@ import android.support.v4.view.ViewPager;
 import android.view.WindowManager;
 
 import com.alibaba.android.arouter.facade.annotation.Route;
-import com.zwy.base.base.BaseActivity;
-import com.zwy.base.widget.HackyViewPager;
+import com.zwy.cidemo.base.base.BaseActivity;
+import com.zwy.cidemo.base.widget.HackyViewPager;
 import com.zwy.cidemo.girls.data.bean.Girls;
 import com.zwy.cidemo.girls.Constants;
 
