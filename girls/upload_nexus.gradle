@@ -26,7 +26,7 @@ uploadArchives {
             }
             pom.project {
                 version '1.0.2'
-                artifactId 'module_home'
+                artifactId 'module_girls'
                 groupId 'com.zwy.cidemo'
                 packaging 'aar'
                 description 'base module'
